@@ -1,0 +1,21 @@
+# ninja log v6
+2	120	7967739402323099	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	ce3943f42a6223ce
+2	120	7967739402323099	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	ce3943f42a6223ce
+120	15706	7967739558183459	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	3a4f369058f455b
+120	15706	7967739558183459	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	3a4f369058f455b
+15706	16019	7967739558260325	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	68571617a73f4810
+15706	16019	7967739558260325	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	68571617a73f4810
+16019	16130	7967739562434696	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b29c92682b500a2b
+16019	16130	7967739562434696	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	b29c92682b500a2b
+16130	16242	7967739563552338	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	21be811d6b583867
+16130	16242	7967739563552338	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	21be811d6b583867
+16242	16352	7967739564654111	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	de66850975258373
+16242	16352	7967739564654111	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	de66850975258373
+16353	16463	7967739565765650	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	302960b769b8235
+16353	16463	7967739565765650	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	302960b769b8235
+16463	16575	7967739566880869	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	12078015d9682bdd
+16463	16575	7967739566880869	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	12078015d9682bdd
+16575	16725	7967739568380328	CMakeFiles/sfml-populate-complete	22754b55db317923
+16575	16725	7967739568380328	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	22754b55db317923
+16575	16725	7967739568380328	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	22754b55db317923
+16575	16725	7967739568380328	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	22754b55db317923

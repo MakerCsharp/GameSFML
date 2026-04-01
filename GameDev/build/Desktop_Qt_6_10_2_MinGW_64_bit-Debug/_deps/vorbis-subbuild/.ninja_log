@@ -1,0 +1,21 @@
+# ninja log v6
+2	123	7967740093675958	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	a1330a22ee1b1095
+2	123	7967740093675958	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir	a1330a22ee1b1095
+124	4652	7967740138972543	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	4b6d72b83c74f4f0
+124	4652	7967740138972543	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download	4b6d72b83c74f4f0
+4652	4971	7967740139041532	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	7d9c829c8b0b9862
+4652	4971	7967740139041532	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update	7d9c829c8b0b9862
+4971	5123	7967740143673577	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	c135b59823cba8f3
+4971	5123	7967740143673577	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch	c135b59823cba8f3
+5123	5235	7967740144800582	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	326875aa5fdd3efa
+5123	5235	7967740144800582	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure	326875aa5fdd3efa
+5235	5353	7967740145992665	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	b6db3eb027aeebdd
+5235	5353	7967740145992665	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build	b6db3eb027aeebdd
+5353	5473	7967740147184873	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	bcb9816f9c9fe71d
+5353	5473	7967740147184873	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install	bcb9816f9c9fe71d
+5473	5585	7967740148305234	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	f74fb5bbaf826adc
+5473	5585	7967740148305234	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test	f74fb5bbaf826adc
+5585	5736	7967740149825609	CMakeFiles/vorbis-populate-complete	83898b7a538ec0e5
+5585	5736	7967740149825609	vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	83898b7a538ec0e5
+5585	5736	7967740149825609	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete	83898b7a538ec0e5
+5585	5736	7967740149825609	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-done	83898b7a538ec0e5

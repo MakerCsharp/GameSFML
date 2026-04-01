@@ -1,0 +1,21 @@
+# ninja log v6
+2	113	7967739628988406	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	8980b227dd0c1db6
+2	113	7967739628988406	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	8980b227dd0c1db6
+113	10923	7967739737086788	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	362066edbda952a
+113	10923	7967739737086788	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	362066edbda952a
+10923	11238	7967739737157097	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	59d8e8a474599d5e
+10923	11238	7967739737157097	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	59d8e8a474599d5e
+11239	11374	7967739741608145	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	7fa3ba2eda94c41c
+11239	11374	7967739741608145	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	7fa3ba2eda94c41c
+11374	11483	7967739742704657	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	6fdc115fc78cc0fd
+11374	11483	7967739742704657	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	6fdc115fc78cc0fd
+11483	11595	7967739743810163	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	1d204488126e822
+11483	11595	7967739743810163	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	1d204488126e822
+11595	11707	7967739744927217	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	3a65a1e0e4ddb8e8
+11595	11707	7967739744927217	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	3a65a1e0e4ddb8e8
+11707	11828	7967739746137658	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	499110f9b7e871ce
+11707	11828	7967739746137658	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	499110f9b7e871ce
+11828	11991	7967739747770372	CMakeFiles/freetype-populate-complete	a67d0171d707ba44
+11828	11991	7967739747770372	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	a67d0171d707ba44
+11828	11991	7967739747770372	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	a67d0171d707ba44
+11828	11991	7967739747770372	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	a67d0171d707ba44

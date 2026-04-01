@@ -1,0 +1,14 @@
+# Target labels
+ vorbis-populate
+# Source files and their labels
+E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate
+E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.rule
+E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete.rule
+E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build.rule
+E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure.rule
+E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download.rule
+E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install.rule
+E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir.rule
+E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch.rule
+E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test.rule
+E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update.rule

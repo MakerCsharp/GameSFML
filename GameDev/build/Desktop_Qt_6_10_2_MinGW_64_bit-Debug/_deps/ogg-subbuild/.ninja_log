@@ -1,0 +1,21 @@
+# ninja log v6
+2	115	7967739770226511	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	8323e97f7e5bd1a0
+2	115	7967739770226511	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir	8323e97f7e5bd1a0
+116	3414	7967739803204684	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	e7556220943e591c
+116	3414	7967739803204684	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download	e7556220943e591c
+3414	3807	7967739803281733	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	f4144d7be47a5930
+3414	3807	7967739803281733	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update	f4144d7be47a5930
+3807	3959	7967739808649003	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	be53e1499478f8be
+3807	3959	7967739808649003	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch	be53e1499478f8be
+3959	4099	7967739810038137	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	d4cdc370ceaabfe3
+3959	4099	7967739810038137	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure	d4cdc370ceaabfe3
+4099	4222	7967739811269472	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	50dcedba38b3b7e4
+4099	4222	7967739811269472	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build	50dcedba38b3b7e4
+4222	4372	7967739812781110	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	e7ef7eee0eb1b5c9
+4222	4372	7967739812781110	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install	e7ef7eee0eb1b5c9
+4372	4498	7967739814044368	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	4606bd280c56c078
+4372	4498	7967739814044368	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test	4606bd280c56c078
+4498	4655	7967739815620652	CMakeFiles/ogg-populate-complete	bba50b3e79b6ecb5
+4498	4655	7967739815620652	ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	bba50b3e79b6ecb5
+4498	4655	7967739815620652	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete	bba50b3e79b6ecb5
+4498	4655	7967739815620652	E:/QtProject/GameDev/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-done	bba50b3e79b6ecb5
